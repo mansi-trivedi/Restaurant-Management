@@ -1,0 +1,16 @@
+.gallery{
+    height: 1470px;
+    width: 1160px;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    
+}
+.gallery_grid{
+    padding: 10px;
+    float: left;
+    margin: 8px;
+    background-color: white;
+    border-radius: 10px;    
+    box-shadow: 5px 5px 5px rgb(146, 143, 143);
+}

@@ -1,0 +1,26 @@
+main p{
+    color: #5D0400;
+    margin-top: 30px;
+    margin-left: 100px;
+    font-family: "Times New Roman";
+    font-size: 28px;
+}
+.chefs{
+    height: 600px;
+    margin-top: 10px;
+    padding-top: 2px;
+    padding-left: 100px;
+}
+.chefs_grid{
+    border: 2px solid #dfdddd;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    border-radius: 110px;
+    background-color: white;
+    box-shadow: 4px 4px 5px rgb(168, 162, 162);
+
+}
+.chefs_grid img{
+    border-radius: 110px;
+}
